@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 1.  **リポジトリをクローン:**
     ```bash
-    git clone <repository_url>
+    git clone git@github.com:inuverse44/kubernates-queueing-theory.git
     ```
 
 2.  **依存関係をインストール:**
